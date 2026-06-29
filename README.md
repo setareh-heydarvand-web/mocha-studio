@@ -3,7 +3,6 @@
 Modern Coffee Shop Landing Page built with HTML & CSS.
 
 
-https://setareh-heydarvand-web.github.io/mocha-studio/
 
 ---
 
